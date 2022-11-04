@@ -32,9 +32,9 @@
     <input type="radio" id="gender2" name="gender" value="W"> 여
     <br>
     <label>취미:</label><br>
-    <input type="checkbox" name="hobby[]" value="노래듣기" checked>노래듣기<br>
-    <input type="checkbox" name="hobby[]" value="영화보기">영화보기<br>
-    <input type="checkbox" name="hobby[]" value="운동하기">운동하기<br>
+    <input type="checkbox" name="hobby[0]" value="노래듣기" checked>노래듣기<br>
+    <input type="checkbox" name="hobby[1]" value="영화보기">영화보기<br>
+    <input type="checkbox" name="hobby[2]" value="운동하기">운동하기<br>
 
     <br>
     <label>고향:</label>
