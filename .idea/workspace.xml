@@ -9,10 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be772293-22c6-465b-aec2-9b5b9ae1666a" name="Changes" comment="update form.jsp, form_ok.jsp">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/form_ok.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/form_ok.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="be772293-22c6-465b-aec2-9b5b9ae1666a" name="Changes" comment="update form_ok.jsp's date" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,7 +159,7 @@
       <workItem from="1667393727797" duration="1801000" />
       <workItem from="1667395651166" duration="217000" />
       <workItem from="1667395885625" duration="940000" />
-      <workItem from="1667539793282" duration="4157000" />
+      <workItem from="1667539793282" duration="4520000" />
     </task>
     <task id="LOCAL-00001" summary="update form.jsp, form_ok.jsp">
       <created>1667396223372</created>
@@ -178,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667546242726</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update form_ok.jsp's date">
+      <created>1667548564613</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667548564613</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +201,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update form.jsp, form_ok.jsp" />
-    <option name="LAST_COMMIT_MESSAGE" value="update form.jsp, form_ok.jsp" />
+    <MESSAGE value="update form_ok.jsp's date" />
+    <option name="LAST_COMMIT_MESSAGE" value="update form_ok.jsp's date" />
   </component>
 </project>
