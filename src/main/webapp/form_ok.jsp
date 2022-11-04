@@ -18,7 +18,7 @@
   String hobby_3 = request.getParameter("hobby[2]");
   String city = request.getParameter("city");
   String content = request.getParameter("content");
-  String date = request.getParameter("date");
+  String date = request.getParameter("from_date");
   String g_msg = "";
   String h_msg = "";
   String c_msg = "";
